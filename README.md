@@ -1,5 +1,6 @@
 # contact_us_widget
 A contact us widget built with HTML, CSS and mdbootstrap5.
+It is a modification of the simple donate (http://sdonate.pythonanywhere.com/) web application's contact us page. This widget can be implemented anywhere as it is purely frontend.
 
 # Features
 - Text limiter with JavaScript (both input and display limiters).
