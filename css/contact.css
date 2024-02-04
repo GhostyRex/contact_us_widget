@@ -1,0 +1,56 @@
+.contact-header {
+    background: black;
+    font-weight: bold;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+.contact-donate-image {
+    height: 250px;
+    width: 250px;
+}
+
+.contact-send-us-header {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+}
+
+.contact-form-text {
+    font-family: "Poppins", sans-serif;
+}
+
+.character-count {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.contact-icon-img{
+    height: 30px;
+    width: 30px;
+}
+
+.form-row {
+    padding-top: 15px;
+}
+
+.go-text-header, .form-group {
+    font-weight: bold;
+}
+
+.projects-title {
+    font-family: "Cooper", sans-serif;
+    font-size: 60px;
+}
+
+@media only screen and (max-width: 800px) {
+    .projects-title {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .projects-title {
+        font-size: 30px;
+    }
+}
